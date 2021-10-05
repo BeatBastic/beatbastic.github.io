@@ -16,11 +16,26 @@
 
 - https://github.com/gitpod-io/openvscode-server
 
+## Monitoring
+
+- https://github.com/nickbabcock/OhmGraphite
+
+## Monitoring
+
+- https://github.com/Rigellute/spotify-tui
+- https://github.com/skimmilk/spotifyripper
+
 ## Security
 
 - https://github.com/canonical/sec-cvescan
 - https://github.com/devmatic-it/debcvescan
 - https://www.flyingpenguin.com/?p=28762
+- https://testssl.sh/
+
+## Storage
+
+- https://min.io/
+- https://longhorn.io/
 
 ## Terraform
 
