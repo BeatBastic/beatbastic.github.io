@@ -16,14 +16,26 @@
 
 - https://github.com/gitpod-io/openvscode-server
 
+## Mindmap
+
+- https://markmap.js.org/
+- https://github.com/dundalek/markmap
+
 ## Monitoring
 
 - https://github.com/nickbabcock/OhmGraphite
+- https://github.com/IzakMarais/reporter
+- https://github.com/divinity666/ruby-grafana-reporter
 
-## Monitoring
+## Music
 
 - https://github.com/Rigellute/spotify-tui
 - https://github.com/skimmilk/spotifyripper
+
+## Presentation
+
+- https://maaslalani.com/slides/
+- https://sli.dev/
 
 ## Security
 
@@ -44,3 +56,7 @@
 - https://medium.com/faun/building-repeatable-infrastructure-with-terraform-and-ansible-on-aws-3f082cd398ad
 - https://aws.amazon.com/de/blogs/apn/using-terraform-to-manage-aws-programmable-infrastructures/
 - https://www.terraform.io/docs/import/usage.html
+
+## Web Development
+
+- https://github.com/bradvin/social-share-urls
