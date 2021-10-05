@@ -1,5 +1,9 @@
 # Linklist
 
+## Authentication
+
+- https://www.authelia.com/
+
 ## AWS
 
 - https://binx.io/blog/2019/09/02/how-to-dynamically-bind-elastic-ip-addresses-to-an-auto-scaling-group/
@@ -12,9 +16,26 @@
 
 - https://github.com/aws-samples/aws-scalable-big-blue-button-example#step-by-step
 
+## Cheat Sheets
+
+- https://github.com/cheat/cheatsheets
+
+## Cloud Computing
+
+- https://www.eucalyptus.cloud/index.html
+
 ## Coding
 
 - https://github.com/gitpod-io/openvscode-server
+
+## Data
+
+- https://github.com/adamerose/PandasGUI
+- https://github.com/dexplo/dexplot
+
+## Diagrams
+
+- https://diagrams.mingrammer.com/
 
 ## Mindmap
 
@@ -26,11 +47,19 @@
 - https://github.com/nickbabcock/OhmGraphite
 - https://github.com/IzakMarais/reporter
 - https://github.com/divinity666/ruby-grafana-reporter
+- https://github.com/HeinleinSupport/cern-ceph-scripts
+- https://github.com/HeinleinSupport/check_mk_extensions
+- https://github.com/greenstatic/bigbluebutton-exporter
 
 ## Music
 
 - https://github.com/Rigellute/spotify-tui
 - https://github.com/skimmilk/spotifyripper
+
+## Notes and Documentation
+
+- https://hackmd.io/c/codimd-documentation/
+- https://github.com/ines/termynal
 
 ## Presentation
 
@@ -43,6 +72,7 @@
 - https://github.com/devmatic-it/debcvescan
 - https://www.flyingpenguin.com/?p=28762
 - https://testssl.sh/
+- https://sherlock-project.github.io/
 
 ## Storage
 
