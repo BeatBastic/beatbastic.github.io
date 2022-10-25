@@ -61,6 +61,10 @@
 - https://hackmd.io/c/codimd-documentation/
 - https://github.com/ines/termynal
 
+## OSINT
+
+- https://github.com/megadose/holehe
+
 ## Presentation
 
 - https://maaslalani.com/slides/
