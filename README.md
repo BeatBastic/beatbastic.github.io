@@ -64,6 +64,7 @@
 ## OSINT
 
 - https://github.com/megadose/holehe
+- https://github.com/Datalux/Osintgram
 
 ## Presentation
 
