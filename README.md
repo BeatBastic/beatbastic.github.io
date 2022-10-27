@@ -96,6 +96,14 @@
 - https://aws.amazon.com/de/blogs/apn/using-terraform-to-manage-aws-programmable-infrastructures/
 - https://www.terraform.io/docs/import/usage.html
 
+## Vulnerabilities
+
+- https://aquasecurity.github.io/trivy/v0.33/
+- https://www.findbestopensource.com/product/archerysec-archerysec
+- https://pentestwiki.org/tools-and-frameworks-for-application-security/
+- https://notsosecure.com/achieving-devsecops-open-source-tools
+- https://www.libhunt.com/topic/vulnerability-scanners
+
 ## Web Development
 
 - https://github.com/bradvin/social-share-urls
