@@ -65,6 +65,10 @@
 
 - https://github.com/megadose/holehe
 - https://github.com/Datalux/Osintgram
+- https://github.com/sherlock-project/sherlock
+- https://github.com/qeeqbox/social-analyzer
+- https://github.com/soxoj/maigret
+- https://github.com/projectdiscovery/subfinder
 
 ## Presentation
 
